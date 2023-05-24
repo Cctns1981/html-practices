@@ -1,0 +1,6 @@
+"use strict':
+
+let name = prompt ('What is your Name?');
+console.log(username);
+
+return document.write(name)

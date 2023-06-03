@@ -6,7 +6,11 @@ console.log(username);
 document.write(username)
 function gitName(){
 console.log('work')
-    let sport = prompt ('What is your favorite sport?')
-    document.write(sport)
+ls    let age = prompt ('How old are you?')
+    document.write(age)
 }
 console.log('happy')
+function gitName(){
+let from = prompt ('Where are you from?')
+console.log(city)
+}
